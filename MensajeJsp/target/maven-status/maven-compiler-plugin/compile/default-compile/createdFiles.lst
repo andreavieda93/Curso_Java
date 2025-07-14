@@ -1,0 +1,5 @@
+com\oregoom\mensajejsp\Mensaje.class
+com\oregoom\mensajejsp\Conexion.class
+com\oregoom\mensajejsp\MensajeDao.class
+com\oregoom\mensajejsp\Main.class
+com\oregoom\mensajejsp\resources\JakartaEE10Resource.class

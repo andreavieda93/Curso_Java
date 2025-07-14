@@ -1,0 +1,4 @@
+com\oregoom\mensajes\UpdateRegistros.class
+com\oregoom\mensajes\InsertarRegistros.class
+com\oregoom\mensajes\Delete.class
+com\oregoom\mensajes\ListarRegistros.class

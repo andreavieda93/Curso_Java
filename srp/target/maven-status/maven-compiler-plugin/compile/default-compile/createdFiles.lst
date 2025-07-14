@@ -1,0 +1,7 @@
+com\oregoom\srp\refractor\BookPersistence.class
+com\oregoom\srp\refractor\Book.class
+com\oregoom\srp\Book.class
+com\oregoom\srp\refractor\Page.class
+com\oregoom\srp\Page.class
+com\oregoom\srp\refractor\BookFilePersistence.class
+com\oregoom\srp\refractor\BookPersistenceException.class
